@@ -1,2 +1,3 @@
+# install these libary from pypi.org 👇🏼
 streamlit
 sklearn
